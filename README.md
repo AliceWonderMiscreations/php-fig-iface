@@ -67,3 +67,11 @@ For more information on the PSR-15 HTTP Handlers Interface, please see
 [https://www.php-fig.org/psr/psr-15]
 
 
+PSR-16 Simple Cache Interface
+-----------------------------
+
+For more information on the PSR-16 Simple Cache Interface, please see
+[https://www.php-fig.org/psr/psr-16]
+
+---------------------------------------------------------------
+__EOF__
