@@ -60,3 +60,10 @@ For more information on the PSR-13 Hypermedia Links Interface, please see
 [https://www.php-fig.org/psr/psr-13]
 
 
+PSR-15 HTTP Handlers Interface
+------------------------------
+
+For more information on the PSR-15 HTTP Handlers Interface, please see
+[https://www.php-fig.org/psr/psr-15]
+
+
