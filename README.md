@@ -44,3 +44,12 @@ PSR-7 HTTP Message Interface
 
 For more information on the PSR-7 HTTP Message Interface, please see
 [https://www.php-fig.org/psr/psr-7]
+
+
+PSR-11 Container Interface
+--------------------------
+
+For more information on the PSR-11 Container Interface, please see
+[https://www.php-fig.org/psr/psr-11]
+
+
